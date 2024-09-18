@@ -1,7 +1,5 @@
 # PerovskiteML_project
-A repository for Dr Greenland's research project on machine learning for perovskite materials discovery.
-
-A repository for Claire Greenland's research project on machine learning for perovskite materials discovery.
+This is a repository for Claire Greenland's research project on machine learning for perovskite materials discovery.
 
 Important steps to get started:
 
