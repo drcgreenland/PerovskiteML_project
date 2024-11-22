@@ -1,0 +1,44 @@
+Cell_stack_sequence II
+Cell_architecture I
+Substrate_stack_sequence 
+Substrate_thickness
+ETL_stack_sequence
+ETL_thickness
+ETL_additives_compounds
+ETL_additives_concentrations
+Perovskite_composition_a_ions II
+Perovskite_composition_a_ions_coefficients II
+Perovskite_composition_b_ions II
+Perovskite_composition_b_ions_coefficients II
+Perovskite_composition_c_ions II
+Perovskite_composition_c_ions_coefficients II
+Perovskite_additives_compounds
+Perovskite_additives_concentrations
+Perovskite_thickness
+HTL_stack_sequence
+HTL_thickness_list
+HTL_additives_compounds
+HTL_additives_concentrations
+Backcontact_stack_sequence
+Backcontact_thickness
+Backcontact_additives_compounds
+Backcontact_additives_concentrations
+Add_lay_front
+Add_lay_front_function
+Add_lay_front_stack_sequence
+Add_lay_front_thickness_list
+Add_lay_front_additives_compounds
+Add_lay_front_additives_concentrations
+Add_lay_back
+Add_lay_back_function
+Add_lay_back_stack_sequence
+Add_lay_back_thickness_list
+Add_lay_back_additives_compounds
+Add_lay_back_additives_concentrations
+Encapsulation
+Encapsulation_stack_sequence
+
+
+'Index', 
+'Cell_stack_sequence', 
+'Cell_architecture', 'Substrate_stack_sequence', 'Substrate_thickness', 'ETL_stack_sequence', 'ETL_thickness', 'ETL_additives_compounds', 'ETL_additives_concentrations', 'Perovskite_additives_compounds', 'Perovskite_additives_concentrations', 'Perovskite_thickness', 'HTL_stack_sequence', 'HTL_thickness_list', 'HTL_additives_compounds', 'HTL_additives_concentrations', 'Backcontact_stack_sequence', 'Backcontact_additives_compounds', 'Backcontact_additives_concentrations', 'Add_lay_front', 'Add_lay_front_function', 'Add_lay_front_stack_sequence', 'Add_lay_front_thickness_list', 'Add_lay_front_additives_compounds', 'Add_lay_front_additives_concentrations', 'Add_lay_back', 'Add_lay_back_function', 'Add_lay_back_stack_sequence', 'Add_lay_back_thickness_list', 'Add_lay_back_additives_compounds', 'Add_lay_back_additives_concentrations', 'Encapsulation', 'Encapsulation_stack_sequence']
