@@ -14,4 +14,8 @@ xgboost_ray
 sphinx-gallery
 pyspark
 cloudpickle
+<<<<<<< HEAD
 setuptools
+=======
+setuptools
+>>>>>>> 569f31df6b840bab90f18eaf8a427f3912730d51
